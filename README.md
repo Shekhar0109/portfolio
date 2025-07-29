@@ -3,8 +3,7 @@
 _A clean and responsive one-page portfolio to showcase my skills, experience, and projects._
 
 ---
-
-[🔗 **Live Demo**](https://shekhar0109.github.io/portfolio)  
+  
 [✨ Features](#-features) • [🛠 Tech Stack](#-tech-stack) • [📬 Contact](#-contact)
 
 ---
